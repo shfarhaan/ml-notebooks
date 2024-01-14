@@ -3,3 +3,6 @@ Boosting/catboost_info
 assignments_solutions/
 Deep Learning/Basics
 Recommender_Systems/
+Movie_Rec_Sys/frontend
+Movie_Rec_Sys/movies_list.pkl
+Movie_Rec_Sys/similarity.pkl
