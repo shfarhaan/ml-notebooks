@@ -73,3 +73,5 @@ if st.button("Show Recommend"):
     with col5:
         st.text(movie_name[4])
         st.image(movie_poster[4])
+        
+        
