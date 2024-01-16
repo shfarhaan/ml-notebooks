@@ -35,7 +35,6 @@ imageUrls = [
     fetch_poster(914),
     fetch_poster(255709),
     fetch_poster(572154)
-   
     ]
 
 
