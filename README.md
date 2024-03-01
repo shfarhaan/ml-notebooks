@@ -1,6 +1,6 @@
 # Basics of Machine Learning
 
-This repository contains notebooks and code examples for learning the basics of machine learning. Machine learning is a branch of artificial intelligence that enables computers to learn from data and make predictions or decisions. Machine learning algorithms are the methods or rules that guide the learning process.
+This repository contains notebooks and code examples for learning the basics of machine learning. Machine learning is a branch of artificial intelligence that enables computers to learn from data and make predictions or decisions. Machine learning algorithms are the methods or rules that guide the learning process. 
 
 ## Machine Learning Algorithms
 
